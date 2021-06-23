@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "portal.css",
+	"sources": [
+		"../../../morpheus-master/sass/portal.scss",
+		"../../../morpheus-master/sass/portal.scss/JSASS_CUSTOM.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
